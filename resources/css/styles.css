@@ -1,8 +1,21 @@
 .header {
   background-color: lightgrey;
   height: 200px;
-  width: 80%;
+  width: 1000px;
   margin: 0 auto;
+}
+
+.logo {
+  width: 1000px;
+  height: 175px;
+  background-color: darkred;
+  background-image: url(file:///C:/Users/deacongross/Desktop/Deacon/Web%20design/newstemp/resources/images/News%20Banner.png);
+}
+
+nav {
+  background-color: black;
+  width: 1000px;
+  height: 25px;
 }
 
 .content {
